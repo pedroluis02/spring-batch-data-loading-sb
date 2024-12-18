@@ -1,1 +1,3 @@
-spring.application.name=spring-batch-data-loading-sb
+spring:
+  application:
+    name: spring-batch-data-loading-sb
